@@ -1,1 +1,1 @@
-# Just having fun with haskell
+# Learning haskell by solving codewars every single day
